@@ -19,7 +19,7 @@ launch sequence by automatically:
 IMPORTANT CONFIGURATION NOTE
 ------------------------------------------------------------
 # PLEASE KEEP IN MIND:
-- All directory paths in `options.json` MUST use DOUBLE BACKSLASHES.
+- All directory paths in `options.json` MUST use DOUBLE BACKSLASHES.  
    Example: "C:\\\\FILES\\\\PEACOCK"
 
 This is required so JSON string escaping behaves properly.
