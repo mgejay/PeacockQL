@@ -21,8 +21,8 @@ IMPORTANT CONFIGURATION NOTE
 # PLEASE KEEP IN MIND:
 - All directory paths in `options.json` MUST use DOUBLE BACKSLASHES.
   Example: 
-      CORRECT: "C:\\FILES\\PEACOCK"
-      WRONG:   "C:\FILES\PEACOCK"
+      CORRECT: C:\\FILES\\PEACOCK
+      WRONG:   C:\FILES\PEACOCK
 
 This is required so JSON string escaping behaves properly.
 
@@ -42,7 +42,7 @@ FIRST-TIME SETUP INSTRUCTIONS
 5. Fill in the correct values:
 
     - "PeacockFolder": The full path to your Peacock install folder
-      → Example: "C:\\FILES\\PEACOCK"
+      → Example: '"C:\\FILES\\PEACOCK"'
 
     - "PatcherExe": The exact filename of the Peacock patcher
       → Example: "PeacockPatcher.exe"
