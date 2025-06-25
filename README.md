@@ -1,6 +1,4 @@
-============================================================
-PEACOCKQL - HITMAN: World of Assassination Local Server Launcher
-============================================================
+# PEACOCKQL - HITMAN: World of Assassination Local Server Launcher
 
 AUTHOR: MGE
 VERSION: 1.0.0
