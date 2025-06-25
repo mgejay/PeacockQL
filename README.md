@@ -1,7 +1,6 @@
-# PEACOCKQL - HITMAN: World of Assassination Local Server Launcher
-
-- AUTHOR: MGE
-- VERSION: 1.0.0
+# PEACOCKQL - HITMAN: World of Assassination Local Server Launcher  
+AUTHOR: MGE  
+VERSION: 1.0.0
 
 ------------------------------------------------------------
 WHAT IS THIS?
@@ -20,7 +19,8 @@ IMPORTANT CONFIGURATION NOTE
 ------------------------------------------------------------
 # PLEASE KEEP IN MIND:
 - All directory paths in `options.json` MUST use DOUBLE BACKSLASHES.  
-   Example: "C:\\\\FILES\\\\PEACOCK"
+   Correct: "C:\\\\FILES\\\\PEACOCK"  
+   Incorrect: "C:\FILES\PEACOCK"
 
 This is required so JSON string escaping behaves properly.
 
