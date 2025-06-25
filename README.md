@@ -20,7 +20,7 @@ IMPORTANT CONFIGURATION NOTE
 ------------------------------------------------------------
 # PLEASE KEEP IN MIND:
 - All directory paths in `options.json` MUST use DOUBLE BACKSLASHES.
-  \nExample: "C:\\\\FILES\\\\PEACOCK"
+  \Example: "C:\\\\FILES\\\\PEACOCK"
 
 This is required so JSON string escaping behaves properly.
 
